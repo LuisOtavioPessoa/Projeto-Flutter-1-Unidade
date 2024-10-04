@@ -20,7 +20,7 @@ O projeto é estruturado da seguinte maneira:
 - `main.dart`: Ponto de entrada do aplicativo, onde o widget principal é definido.
 - `HomePage`: A página principal que contém a lógica da lista de tarefas, incluindo adição e conclusão de tarefas.
 
-- ## Como Executar
+## Como Executar
 
 1. **Clone o repositório:**
 
