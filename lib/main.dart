@@ -99,6 +99,8 @@ class _HomePage extends State<HomePage> {
                                 : TextDecoration.none),
                       ),
                       value: tarefasConcluidas[index],
+                      activeColor: Colors.green,
+                      checkColor: Colors.black,
                       onChanged: (bool? value) {
                         setState(() {
                           if (value == true) {
