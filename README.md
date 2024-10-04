@@ -1,16 +1,23 @@
-# myapp
+# To Do List
 
-A new Flutter project.
+Este é um aplicativo simples de lista de tarefas (To Do List) desenvolvido em Flutter. O aplicativo permite que os usuários adicionem, concluam e visualizem suas tarefas de forma intuitiva.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Adicionar novas tarefas à lista
+- Marcar tarefas como concluídas
+- Visualizar tarefas pendentes e concluídas
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: Para o desenvolvimento do aplicativo.
+- **Dart**: Linguagem de programação usada no Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Estrutura do Projeto
+
+O projeto é estruturado da seguinte maneira:
+
+- `main.dart`: Ponto de entrada do aplicativo, onde o widget principal é definido.
+- `HomePage`: A página principal que contém a lógica da lista de tarefas, incluindo adição e conclusão de tarefas.
+
+
